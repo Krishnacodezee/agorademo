@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413613421487",
+    "project_id": "fcm1-d18ca",
+    "storage_bucket": "fcm1-d18ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413613421487:android:bdabedb293b2815a15355a",
+        "android_client_info": {
+          "package_name": "com.example.agoravideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413613421487-0c1l9fm7ffov9qo7l78qn4vqjvudaju7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9oaUSXhOhYA5LfYnYri7uFiFqyXVUwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413613421487-0c1l9fm7ffov9qo7l78qn4vqjvudaju7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

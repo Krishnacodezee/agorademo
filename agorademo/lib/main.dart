@@ -156,9 +156,9 @@ class _MyAppState extends State<MyApp> {
       title: 'Agora Audio quickstart',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Agora Audio quickstart'),
+          title: const Text('Agora Audio quickstart'),
         ),
-        body: Center(
+        body: const Center(
           child: Text('Please chat!'),
         ),
       ),
